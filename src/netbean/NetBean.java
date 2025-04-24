@@ -17,10 +17,11 @@ public class NetBean {
         // TODO code application logic here
         //CHat de netbneans
         //Funcion tangente
-        double x = 45;
+        double x = 0;
         double rad = Math.toRadians(x);
         double tan = Math.tan(rad);
         System.out.println("La tangente de" + x + "es" + tan);
+        //hola
     }
     
 }
